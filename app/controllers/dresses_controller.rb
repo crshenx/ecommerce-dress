@@ -42,5 +42,13 @@ class DressesController < ApplicationController
     dress.destroy
    end
 
+   patch "/dresses/:id" do
+    dress = Dress.find(params[:id])
+    dress.update(
+      dress_likes: params[:dress_likes]
+    )
+    dress.to_json
+   end
+
 
 end

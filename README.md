@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-" " is an e-commerce platform that lets the user interact and shop for wedding dresses; allowing the user to browse the catalog, and checkout using a shopping cart - created by members of Flatiron School.
+Yes to the Dress is an e-commerce platform that lets the user interact and shop for wedding dresses; allowing the user to browse the catalog, and checkout using a shopping cart - created by members of Flatiron School.
 
 Users will be able to:
 
